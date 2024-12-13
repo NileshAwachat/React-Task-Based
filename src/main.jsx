@@ -12,7 +12,7 @@ createRoot(document.getElementById('root')).render(
   <StrictMode>
     {/* <BgcolorChanger /> */}
     {/* <PasswordGenerator /> */}
-    {/* <App/> */}
+    <App/>
     <App />
    
   </StrictMode>,
